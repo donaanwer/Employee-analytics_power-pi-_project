@@ -3,8 +3,7 @@
 **Project Overview**  
 This project is an **interactive Power BI dashboard** that analyzes employee data to provide actionable insights for HR and management teams. It focuses on workforce demographics, salary distribution, diversity, turnover trends, and performance metrics.
 
-> The goal of this project is to **turn raw HR data into actionable insights**, demonstrating practical data analysis skills and creating a strong portfolio project inspired by Mo Chen’s approach to building multiple real-world projects.
-
+> The goal of this project is to **turn raw HR data into actionable insights**, demonstrating practical data analysis skills and creating a strong portfolio project.
 ---
 
 ## Problem
