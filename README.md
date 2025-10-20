@@ -55,7 +55,7 @@ Based on the insights:
 
 ## Tools Used
 - **Power BI:** For creating interactive dashboards and visualizations.
-- **SQL (optional):** For data cleaning and aggregation.
+- **Excel (optional):** For data cleaning and aggregation.
 
 ---
 
