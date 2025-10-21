@@ -60,13 +60,12 @@ It provides insights into **workforce demographics, salary distribution, diversi
 
 ## 🛠 Tools Used
 - **Power BI Desktop** — Data Cleaning, Modeling & Visualization  
-- **SQL (Optional)** — Data preprocessing and aggregation  
+- **Excel** — Data preprocessing and aggregation  
 
 ---
 
 ## 📂 Repository Files
-- `Employee_Analytics.pbix` — Power BI Dashboard file  
-- `dataset/` — Raw employee dataset  
+- `Employee_Analytics.pbix` — Power BI Dashboard file    
 
 ---
 
