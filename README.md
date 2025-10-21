@@ -64,10 +64,6 @@ It provides insights into **workforce demographics, salary distribution, diversi
 
 ---
 
-## 📂 Repository Files
-- `Employee_Analytics.pbix` — Power BI Dashboard file    
-
----
 
 ## Author
 **Damianna Anwar**  
