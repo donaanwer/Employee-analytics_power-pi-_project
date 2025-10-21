@@ -54,8 +54,7 @@ In this data analysis project, I explored **employee demographics, salary distri
 ---
 
 ## Tools Used
-- **Power BI** – Interactive dashboards and visualizations  
-- **SQL** – Data preprocessing and aggregation  
+- **Power BI** – Interactive dashboards and visualizations   
 - **Excel** – Data cleaning and initial analysis  
 
 ---
